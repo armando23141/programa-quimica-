@@ -1,0 +1,30 @@
+body {
+	background-image: url(cubis.gif);
+	background-size:  100% ;
+	}
+	 .texto {
+        font-family: monospace;
+      
+
+      }
+      .contenedor{
+
+      	display: flex;
+      }
+
+      .columna1 { 
+      	margin-left: 10px;
+margin-right: 1px;
+padding: 50px;
+       }
+
+
+       .columna2 {
+       	margin-left: 10px;
+margin-right: 10px;
+       	padding: 30px;
+       }
+        
+
+
+       
